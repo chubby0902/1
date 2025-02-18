@@ -1,4 +1,3 @@
-# 1
 def main():
     print("你好")
 
